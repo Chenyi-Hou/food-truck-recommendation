@@ -12,7 +12,7 @@ export default async function Component() {
       onClick={redirect}
       type="submit"
     >
-      I'm Feeling Lucky
+      I&apos;m Feeling Lucky
     </Button>
   );
 }

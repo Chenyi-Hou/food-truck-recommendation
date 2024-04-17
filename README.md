@@ -1,6 +1,6 @@
-# Your Project Name
+# Find Food Truck
 
-Your project description and overview goes here.
+This project is sololy for https://github.com/peck/engineering-assessment/tree/main
 
 ## Features
 
@@ -53,3 +53,6 @@ npm start
 - Next.js
 - React
 - Tailwind CSS
+- Shadcn
+- Prisma
+- SQLite

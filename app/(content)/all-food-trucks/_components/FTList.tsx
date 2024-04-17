@@ -27,7 +27,7 @@ export default function Component() {
     if (inView && !isFetching) {
       fetchNextPage();
     }
-  }, [inView]);
+  }, [inView, isFetching, fetchNextPage]);
   return (
     <>
       {data?.pages.map((page) => {

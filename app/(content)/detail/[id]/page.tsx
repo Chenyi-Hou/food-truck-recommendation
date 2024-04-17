@@ -102,10 +102,11 @@ export default async function Page({ params: { id }, searchParams }: Props) {
               </div>
               <p>
                 The Tasty Tacos truck serves the most authentic Mexican street
-                food I've had outside of Mexico. Their tacos are fresh and
+                food I&apos;ve had outside of Mexico. Their tacos are fresh and
                 bursting with flavor. I highly recommend trying their al pastor
                 and barbacoa tacos. The service is always friendly, and the
-                prices are reasonable. It's a must-visit for any taco lover.
+                prices are reasonable. It&apos;s a must-visit for any taco
+                lover.
               </p>
             </div>
             <div className="grid gap-2">
@@ -122,12 +123,12 @@ export default async function Page({ params: { id }, searchParams }: Props) {
                 </p>
               </div>
               <p>
-                I stumbled upon the Tasty Tacos food truck last week, and I'm
-                glad I did. Their food is simply outstanding. The carne asada
-                fries are a revelation, loaded with tender meat, cheese, and
-                fresh salsa. The truck's location is convenient, and the staff
-                is always polite. I'll definitely be returning to try more of
-                their offerings.
+                I stumbled upon the Tasty Tacos food truck last week, and
+                I&apos;m glad I did. Their food is simply outstanding. The carne
+                asada fries are a revelation, loaded with tender meat, cheese,
+                and fresh salsa. The truck&apos;s location is convenient, and
+                the staff is always polite. I&apos;ll definitely be returning to
+                try more of their offerings.
               </p>
             </div>
           </div>
