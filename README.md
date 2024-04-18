@@ -7,8 +7,8 @@ Demo: https://food-truck-recommendation.vercel.app <br>
 
 ## Features
 
-- List the main features of your project
-- Describe the key functionalities
+- Randomly pick food truck
+- Check all food trucks
 
 ## Getting Started
 
