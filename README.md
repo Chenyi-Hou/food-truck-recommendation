@@ -1,6 +1,8 @@
 # Find Food Truck
 
 This project is sololy for https://github.com/peck/engineering-assessment/tree/main
+Demo: https://food-truck-recommendation.vercel.app
+Since Vercel doesn't support
 
 ## Features
 
@@ -13,8 +15,7 @@ This project is sololy for https://github.com/peck/engineering-assessment/tree/m
 
 1. Clone the project to your local machine:
    ```sh
-   git clone https://github.com/your-username/your-project.git
-   Enter the project directory:
+   git clone https://github.com/Chenyi-Hou/food-truck-recommendation.git
    ```
 
 cd your-project
