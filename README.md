@@ -39,18 +39,14 @@ Your project will be running at http://localhost:3000.
 
 ### Building
 
-Build the project:
-
 ```
 npm run build
 ```
 
 ### Running
 
-Start the production server:
-
 ```
-npm start
+npm run start
 ```
 
 ## Tech Stack
