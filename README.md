@@ -2,7 +2,8 @@
 
 This project is sololy for https://github.com/peck/engineering-assessment/tree/main
 Demo: https://food-truck-recommendation.vercel.app
-Since Vercel doesn't support
+Since Vercel only host .next files, there is no way to access dev.db after build.
+There is issue to check luck button and all food truck
 
 ## Features
 
