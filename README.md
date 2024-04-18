@@ -2,8 +2,8 @@
 
 This project is sololy for https://github.com/peck/engineering-assessment/tree/main <br>
 Demo: https://food-truck-recommendation.vercel.app <br>
-Since Vercel only host .next files, there is no way to access dev.db after build. <br>
-There is issue to check luck button and all food truck
+**Since Vercel only host .next files, there is no way to access dev.db after build.** <br>
+**There is issue to check luck button and all food truck**
 
 ## Features
 
@@ -15,19 +15,19 @@ There is issue to check luck button and all food truck
 ### Installation
 
 1. Clone the project to your local machine:
+
    ```sh
    git clone https://github.com/Chenyi-Hou/food-truck-recommendation.git
+   cd your-project
    ```
 
-cd your-project <br>
-Install the dependencies:
+2. Install the dependencies:
 
 ```
 npm install
 ```
 
-Running the Development Server <br>
-Start the development server:
+3. Running the Development Server <br>
 
 ```
 npm run dev
