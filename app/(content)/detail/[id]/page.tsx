@@ -183,3 +183,6 @@ function StarIcon(props: any) {
     </svg>
   );
 }
+export async function generateStaticParams() {
+  return [];
+}
